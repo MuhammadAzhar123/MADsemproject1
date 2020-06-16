@@ -1,0 +1,3 @@
+DB name:BBApp_DB
+DB username:AppDB
+Password:eM01XC[Pw]u<fB\W
